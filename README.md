@@ -1,4 +1,4 @@
-# quran
+# Best Quran app for Mobile and Desktop
 Best Quran app for Web and Mobile
 
 Here, I've collected best Quran website that fits on mobile and website device.
